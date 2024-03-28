@@ -33,7 +33,7 @@
           "context": "Focus operations will be phased out of Michigan from mid-2018 and relocated to the Chongqing plant in China. Ford's president of global operations confirmed the company would inform the White House this morning. By importing its small Ford Focus car from China in 2019, Ford Motor Company plans to save up to $1 billion (897 million euro), including $500 billion from the decision to cancel plans for a brand new plant in Mexico.",
           "qas": [
             {
-              "question": "What will be phased out of Michigan?",
+              "question": "When will operations will be phased out of Michigan?",
               "id": "q22",
               "answers": [
                 {
@@ -43,7 +43,7 @@
               ]
             },
             {
-              "question": "Where are Focus operations relocated to?",
+              "question": "Where are Focus operations relocating to?",
               "id": "q24",
               "answers": [
                 {
@@ -68,7 +68,7 @@
           "context": "Guident, a software developer for remote monitoring and teleoperation of autonomous vehicles, will relocate from Florida Atlantic University's Tech Runway to a 5,000-square foot office at the innovation campus. The company reports the space will be home to the first national autonomous vehicle remote control command center.",
           "qas": [
             {
-              "question": "Who does remote monitoring?",
+              "question": "Which software developer does remote monitoring?",
               "id": "q28",
               "answers": [
                 {
@@ -91,8 +91,8 @@
               "id": "q37",
               "answers": [
                 {
-                  "text": "UK",
-                  "answer_start": 136
+                  "text": "Wayve",
+                  "answer_start": 39
                 }
               ]
             },
@@ -221,7 +221,7 @@
           "context": "Driverless vehicle company Wayve - which is carrying out autonomous grocery delivery van trials for Ocado and Asda this year - has raised $200m (£147m) in its latest funding round. The round is a significant cash injection for the London-based startup, founded in 2017, which had previously raised $58m. Wayve's tech - which it calls AV2.0 - combines \"a lean, camera-first sensing suite\" with an end-to-end deep learning system that continually adapts to the \"petabytescale driving data\" provided by the company's partner fleets. Eclipse Ventures, a long-time supporter of Wayve, led the latest round with participation from new global financial investors including D1 Capital Partners, Baillie Gifford, Moore Strategic Ventures and Linse Capital. There was also additional support from Microsoft and Virgin, and early-stage investors Compound and Balderton Capital.",
           "qas": [
             {
-              "question": "Which company  is carrying out autonomous grocery delivery?",
+              "question": "Which company is carrying out autonomous grocery delivery?",
               "id": "q58",
               "answers": [
                 {
@@ -585,13 +585,13 @@
               "id": "q88",
               "answers": [
                 {
-                  "text": "esla has received a number of criticisms over the safety of its 'Autopilot' software,",
+                  "text": "Tesla has received a number of criticisms over the safety of its 'Autopilot' software,",
                   "answer_start": 194
                 }
               ]
             },
             {
-              "question": "Who reported that Tesla would reach full sel-driving  \"next year\"",
+              "question": "Who reported that Tesla would reach full sel-driving "next year",
               "id": "q90",
               "answers": [
                 {
@@ -647,11 +647,11 @@
           "qas": []
         },
         {
-          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (\"AV\") industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle "AV"industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association. This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
           "qas": []
         },
         {
-          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle (\"AV\") industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association.  This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
+          "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle "AV" industry. Since then, we are proud to have tripled in size, adding many of the worlds's leading technology, trucking. Ridesharing, and automotive companies as members of the Association.  This cross-section of companie demonstrates the widespread interest in developing AV technology across different sectors. ",
           "qas": []
         },
         {
